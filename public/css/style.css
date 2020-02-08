@@ -2129,7 +2129,7 @@ a.btn:focus{
 	}
 }
 
-@media (max-width:993px) {
+@media (max-width:768px) {
 	.intro-height {
 		height: 450px;
 	}
@@ -2138,7 +2138,12 @@ a.btn:focus{
 	}
 }
 
-@media (min-width:993px) and (max-width:1199px) {
+@media (min-width:769px) and (max-width:993px){
+	.intro-height {
+		height: 650px;
+	}
+}
+@media (min-width:994px) {
 	.intro-height {
 		height: 600px;
 	}
