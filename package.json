@@ -1,0 +1,23 @@
+{
+  "name": "malpani-mangoes",
+  "version": "1.0.0",
+  "description": "Static website for advertising mangoes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit1311/malpani-mangoes.git"
+  },
+  "author": "sumittoshniwal92@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumit1311/malpani-mangoes/issues"
+  },
+  "homepage": "https://github.com/Sumit1311/malpani-mangoes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
