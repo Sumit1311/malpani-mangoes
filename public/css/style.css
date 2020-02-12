@@ -286,10 +286,13 @@ Navigation
 }
 
 .navbar.navbar-custom .navigation {
-	padding-bottom: 15px;
+	/*padding-bottom: 15px;*/
 
 }
 
+.to-order{
+	width:100%
+}
 
 .navbar {
     margin-bottom: 0;
@@ -1369,7 +1372,7 @@ footer .sub-footer  p {
 	height:50px;
     bottom:20px;
 	left:20px;
-	background: rgb(255, 255, 255);
+	background: rgb(0, 167, 14);
 -webkit-border-radius: 2px 2px 0 0;	
 	-moz-border-radius: 2px 2px 0 0;	
 	border-radius:  50px 50px 50px 50px;
@@ -1384,11 +1387,11 @@ a.righticon {
 a.righticon:hover,a.righticon:active,a.righticon:focus {
 	opacity:1;
 	text-decoration:none;
-	background: rgb(255, 255, 255);
+	background: rgb(0, 167, 14);
 }
 a.righticon i {
 	margin-top: 10px;
-	color: rgb(0, 167, 14);
+	color:rgb(255, 255, 255);
 	font-size: 33px;
 }
 a.righticon i:hover {
@@ -1402,7 +1405,7 @@ a.righticon i:hover {
 	height:50px;
     bottom:20px;
 	right:20px;
-	background: rgb(255, 255, 255);
+	background: rgb(0, 167, 14);  
 -webkit-border-radius: 2px 2px 0 0;	
 	-moz-border-radius: 2px 2px 0 0;	
 	border-radius:  50px 50px 50px 50px;
@@ -1417,11 +1420,11 @@ a.lefticon {
 a.lefticon:hover,a.lefticon:active,a.lefticon:focus {
 	opacity:1;
 	text-decoration:none;
-	background: rgb(255, 255, 255);
+	background:  rgb(0, 167, 14);
 }
 a.lefticon i {
 	margin-top: 9px;
-	color: rgb(0, 167, 14);
+	color:  rgb(255, 255, 255);
 	font-size: 33px;
 }
 a.lefticon i:hover {
@@ -2011,7 +2014,7 @@ a.btn:focus{
 		width: 100%;
 	}
 	.intro-content {
-		padding:250px 0 0;
+		padding:190px 0 0;
 	}
 
 }
