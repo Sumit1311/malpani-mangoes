@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Sumit1311/malpani-mangoes#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
